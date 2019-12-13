@@ -1,0 +1,559 @@
+# depslib dependency file v1.0
+1542206737 source:c:\users\derekslager\documents\junk\moon\game.cpp
+	"Game.h"
+
+1542208248 c:\users\derekslager\documents\junk\moon\game.h
+	"MAP.h"
+
+1504097679 c:\users\derekslager\documents\junk\moon\input.h
+	"timer.h"
+
+1542645874 c:\users\derekslager\documents\junk\moon\timer.h
+	<iostream>
+	<math.h>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<sstream>
+	<memory>
+	<set>
+	<fstream>
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\close_code.h
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1504097679 source:c:\users\derekslager\documents\junk\moon\input.cpp
+	"input.h"
+
+1542289032 source:c:\users\derekslager\documents\junk\moon\keys.cpp
+	"game.h"
+
+1504097679 source:c:\users\derekslager\documents\junk\moon\main.cpp
+	"game.h"
+
+1542208290 source:c:\users\derekslager\documents\junk\moon\mouse.cpp
+	"game.h"
+
+1504099430 source:c:\users\derekslager\documents\junk\moon\startup.cpp
+	"Game.h"
+
+1504097679 source:c:\users\derekslager\documents\junk\moon\timer.cpp
+	"timer.h"
+
+1542643474 source:c:\users\derekslager\documents\junk\moon\src\blastship.cpp
+	"BlastShip.h"
+	"MAP.h"
+
+1542303810 c:\users\derekslager\documents\junk\moon\include\blastship.h
+	"Enemy.h"
+
+1542635077 c:\users\derekslager\documents\junk\moon\include\enemy.h
+	"Shot.h"
+
+1542635077 c:\users\derekslager\documents\junk\moon\include\shot.h
+	"Boom.h"
+
+1542634845 c:\users\derekslager\documents\junk\moon\include\boom.h
+	"RESORCEMAN.h"
+
+1542635077 source:c:\users\derekslager\documents\junk\moon\src\boom.cpp
+	"Boom.h"
+
+1542643596 source:c:\users\derekslager\documents\junk\moon\src\enemy.cpp
+	"Enemy.h"
+
+1542734562 source:c:\users\derekslager\documents\junk\moon\src\player.cpp
+	"Player.h"
+	"MAP.h"
+
+1542734835 c:\users\derekslager\documents\junk\moon\include\player.h
+	"Buzzer.h"
+
+1542637237 source:c:\users\derekslager\documents\junk\moon\src\shot.cpp
+	"Shot.h"
+
+1542733093 c:\users\derekslager\documents\junk\moon\include\map.h
+	"background.h"
+
+1542205911 c:\users\derekslager\documents\junk\moon\include\resorceman.h
+	"../input.h"
+
+1543338220 source:c:\users\derekslager\documents\junk\moon\src\map.cpp
+	"MAP.h"
+
+1543329650 source:c:\users\derekslager\documents\junk\moon\src\resorceman.cpp
+	"RESORCEMAN.h"
+
+1543329876 c:\users\derekslager\documents\junk\moon\include\buzzer.h
+	"MeshGuard.h"
+
+1542646014 source:c:\users\derekslager\documents\junk\moon\src\buzzer.cpp
+	"Buzzer.h"
+	"MAP.h"
+
+1542647784 c:\users\derekslager\documents\junk\moon\include\background.h
+	"Player.h"
+
+1542647964 source:c:\users\derekslager\documents\junk\moon\src\background.cpp
+	"background.h"
+
+1542731909 c:\users\derekslager\documents\junk\moon\include\powerup.h
+	"BlastShip.h"
+
+1542732069 source:c:\users\derekslager\documents\junk\moon\src\powerup.cpp
+	"powerup.h"
+
+1543591819 c:\users\derekslager\documents\junk\moon\include\meshguard.h
+	"powerup.h"
+
+1542206738 source:c:\users\derek.slager\documents\gits\moon\game.cpp
+	"Game.h"
+
+1542208250 c:\users\derek.slager\documents\gits\moon\game.h
+	"MAP.h"
+
+1542733094 c:\users\derek.slager\documents\gits\moon\include\map.h
+	"background.h"
+
+1542647786 c:\users\derek.slager\documents\gits\moon\include\background.h
+	"Player.h"
+
+1542734836 c:\users\derek.slager\documents\gits\moon\include\player.h
+	"Buzzer.h"
+
+1543329878 c:\users\derek.slager\documents\gits\moon\include\buzzer.h
+	"MeshGuard.h"
+
+1543591820 c:\users\derek.slager\documents\gits\moon\include\meshguard.h
+	"powerup.h"
+
+1542731910 c:\users\derek.slager\documents\gits\moon\include\powerup.h
+	"BlastShip.h"
+
+1542303812 c:\users\derek.slager\documents\gits\moon\include\blastship.h
+	"Enemy.h"
+
+1542635078 c:\users\derek.slager\documents\gits\moon\include\enemy.h
+	"Shot.h"
+
+1542635078 c:\users\derek.slager\documents\gits\moon\include\shot.h
+	"Boom.h"
+
+1542634846 c:\users\derek.slager\documents\gits\moon\include\boom.h
+	"RESORCEMAN.h"
+
+1542205912 c:\users\derek.slager\documents\gits\moon\include\resorceman.h
+	"../input.h"
+
+1504101280 c:\users\derek.slager\documents\gits\moon\input.h
+	"timer.h"
+
+1542645876 c:\users\derek.slager\documents\gits\moon\timer.h
+	<iostream>
+	<math.h>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<sstream>
+	<memory>
+	<set>
+	<fstream>
+
+1504101280 source:c:\users\derek.slager\documents\gits\moon\input.cpp
+	"input.h"
+
+1542289034 source:c:\users\derek.slager\documents\gits\moon\keys.cpp
+	"game.h"
+
+1504101280 source:c:\users\derek.slager\documents\gits\moon\main.cpp
+	"game.h"
+
+1542208292 source:c:\users\derek.slager\documents\gits\moon\mouse.cpp
+	"game.h"
+
+1542647966 source:c:\users\derek.slager\documents\gits\moon\src\background.cpp
+	"background.h"
+
+1542643476 source:c:\users\derek.slager\documents\gits\moon\src\blastship.cpp
+	"BlastShip.h"
+	"MAP.h"
+
+1542635078 source:c:\users\derek.slager\documents\gits\moon\src\boom.cpp
+	"Boom.h"
+
+1542646016 source:c:\users\derek.slager\documents\gits\moon\src\buzzer.cpp
+	"Buzzer.h"
+	"MAP.h"
+
+1542643598 source:c:\users\derek.slager\documents\gits\moon\src\enemy.cpp
+	"Enemy.h"
+
+1543338222 source:c:\users\derek.slager\documents\gits\moon\src\map.cpp
+	"MAP.h"
+
+1543598984 source:c:\users\derek.slager\documents\gits\moon\src\meshguard.cpp
+	"MeshGuard.h"
+	"Map.h"
+
+1542734564 source:c:\users\derek.slager\documents\gits\moon\src\player.cpp
+	"Player.h"
+	"MAP.h"
+
+1542732070 source:c:\users\derek.slager\documents\gits\moon\src\powerup.cpp
+	"powerup.h"
+
+1543329652 source:c:\users\derek.slager\documents\gits\moon\src\resorceman.cpp
+	"RESORCEMAN.h"
+
+1542637238 source:c:\users\derek.slager\documents\gits\moon\src\shot.cpp
+	"Shot.h"
+
+1504103032 source:c:\users\derek.slager\documents\gits\moon\startup.cpp
+	"Game.h"
+
+1504101280 source:c:\users\derek.slager\documents\gits\moon\timer.cpp
+	"timer.h"
+
